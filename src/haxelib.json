@@ -5,5 +5,6 @@
 	"description": "Various helpers for writing Android apps with HaXe.",
 	"version": "0.1.0",
 	"contributors": ["singpolyma"],
-	"dependencies": { }
+	"dependencies": { },
+	"releasenote": "Initial release"
 }
