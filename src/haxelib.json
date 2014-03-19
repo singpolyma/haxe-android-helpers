@@ -1,6 +1,6 @@
 {
 	"name": "android-helpers",
-	"license": "ISC",
+	"license": "MIT",
 	"tags": ["java"],
 	"description": "Various helpers for writing Android apps with HaXe.",
 	"version": "0.1.0",
